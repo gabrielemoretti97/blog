@@ -1,0 +1,4 @@
+baseURL = 'https://gabrielemoretti97.github.io/blog/'
+languageCode = 'en-us'
+title = 'gabrielemoretti97'
+theme = 'archie'
